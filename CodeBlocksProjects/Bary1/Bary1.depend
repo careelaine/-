@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1583164462 source:d:\codeblocksprojects\bary1\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
